@@ -5,7 +5,7 @@ ___
 3. paste the private key into the working directory
 4. open cmd and paste:
 ```
- terraform init
- terraform apply
+> terraform init
+> terraform apply
 ```
 5. type in the browser: http://your_public_ip:3000
